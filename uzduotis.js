@@ -3,7 +3,11 @@
 // Gauta atsakyma isvesti konsoleje. Atsakyma isvesti pasibaigus ciklo blokui
 
 let zodis = 'Siandien grazi diena';
-//NESAMONE
+
+KAZKAS NE TAIP
+var zodis = 'Siandien grazi diena';
+
+
 function da(tekstas){
 	var kiekKartu = 0;
 	for (var i = 0; i < tekstas.length; i++) {
