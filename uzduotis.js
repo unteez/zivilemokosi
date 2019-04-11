@@ -3,9 +3,9 @@
 // Gauta atsakyma isvesti konsoleje. Atsakyma isvesti pasibaigus ciklo blokui
 
 let zodis = 'Siandien grazi diena';
-
+//NESAMONE
 function da(tekstas){
-	let kiekKartu = 0;
+	var kiekKartu = 0;
 	for (var i = 0; i < tekstas.length; i++) {
 		
 		if (tekstas[i] == 'a') {
